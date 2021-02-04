@@ -1,6 +1,3 @@
 entries:
-  - title: Tire Trading
-    url: false
-    entries:
-      - title: Contact
-        url: mailto:adam@tiretrading.io
+  - title: Contact
+    url: mailto:adam@tiretrading.io
